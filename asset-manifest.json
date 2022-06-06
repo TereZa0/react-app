@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/react-app/static/css/main.571c3fd4.css",
-    "main.js": "/react-app/static/js/main.1b430f9b.js",
-    "static/js/787.b701888c.chunk.js": "/react-app/static/js/787.b701888c.chunk.js",
-    "static/media/1p3v.gif": "/react-app/static/media/1p3v.cce6e5cc258f17e0aac6.gif",
-    "static/media/bg-2.jpg": "/react-app/static/media/bg-2.6159f51d4a74b45fd92e.jpg",
-    "static/media/wf-1.jpg": "/react-app/static/media/wf-1.7f04b0131b8dc380fa95.jpg",
-    "static/media/bg-3.jpg": "/react-app/static/media/bg-3.07161c27bd44debf1339.jpg",
-    "static/media/bg-1.jpg": "/react-app/static/media/bg-1.228d80525ea7311c7c5e.jpg",
-    "static/media/logo.svg": "/react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react-app/index.html",
-    "main.571c3fd4.css.map": "/react-app/static/css/main.571c3fd4.css.map",
-    "main.1b430f9b.js.map": "/react-app/static/js/main.1b430f9b.js.map",
-    "787.b701888c.chunk.js.map": "/react-app/static/js/787.b701888c.chunk.js.map"
+    "main.css": "/TereZa0/react-app/static/css/main.571c3fd4.css",
+    "main.js": "/TereZa0/react-app/static/js/main.be2a9717.js",
+    "static/js/787.b701888c.chunk.js": "/TereZa0/react-app/static/js/787.b701888c.chunk.js",
+    "static/media/1p3v.gif": "/TereZa0/react-app/static/media/1p3v.cce6e5cc258f17e0aac6.gif",
+    "static/media/bg-2.jpg": "/TereZa0/react-app/static/media/bg-2.6159f51d4a74b45fd92e.jpg",
+    "static/media/wf-1.jpg": "/TereZa0/react-app/static/media/wf-1.7f04b0131b8dc380fa95.jpg",
+    "static/media/bg-3.jpg": "/TereZa0/react-app/static/media/bg-3.07161c27bd44debf1339.jpg",
+    "static/media/bg-1.jpg": "/TereZa0/react-app/static/media/bg-1.228d80525ea7311c7c5e.jpg",
+    "static/media/logo.svg": "/TereZa0/react-app/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/TereZa0/react-app/index.html",
+    "main.571c3fd4.css.map": "/TereZa0/react-app/static/css/main.571c3fd4.css.map",
+    "main.be2a9717.js.map": "/TereZa0/react-app/static/js/main.be2a9717.js.map",
+    "787.b701888c.chunk.js.map": "/TereZa0/react-app/static/js/787.b701888c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.571c3fd4.css",
-    "static/js/main.1b430f9b.js"
+    "static/js/main.be2a9717.js"
   ]
 }
