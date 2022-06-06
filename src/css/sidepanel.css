@@ -19,6 +19,9 @@
   --col-font-color: #000000;
   --card-bg: #e2e1e8;
   --trending-border-color: #c0c0c0;
+  --red-color: #c2304b;
+  --input-text-placeholder-color: #757575;
+  --timestamp-text-color: #6c7887;
 
   /* ====== Transition ====== */
   --tran-03: all 0.2s ease;
@@ -41,15 +44,17 @@ body {
 body.dark {
   --body-color: #18191a;
   --sidebar-color: #242526;
-  --primary-color: #3a3b3c;
-  --primary-color-light: #3a3b3c;
+  --primary-color: #c2304b;
+  --primary-color-light: #e65570;
   --toggle-color: #fff;
-  --text-color: #ccc;
+  --text-color: #e3e1e1;
   --col-color: #494d54;
   --col-font-color: #fff;
   --card-bg: #c2304b;
   --trending-font-color: #fff;
   --trending-border-color: #5d6066;
+  --input-text-placeholder-color: #e3e3e3;
+  --timestamp-text-color: #d9d7d7;
 }
 
 /* ===== Sidebar ===== */
@@ -387,9 +392,18 @@ body.dark .home .text {
 }
 
 .baseApp {
-  transition: .2s;
+  transition: 0.2s;
 }
 
 /* #nav {
   transition: position .2s;
 } */
+
+.input-search-box::placeholder {
+  color: var(--input-text-placeholder-color);
+}
+
+.timestamp-counter {
+  color: var(--timestamp-text-color) !important;
+  transition: .5s !important;
+}

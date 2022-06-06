@@ -67,15 +67,15 @@ const Home = () => {
           width: "100%",
           padding: "10px",
         }}>
-          <div id="carouselExampleSlidesOnly" className="carousel slide" data-bs-ride="carousel">
+          <div id="carouselExampleInterval" className="carousel slide" data-bs-ride="carousel">
             <div className="carousel-inner" style={{ borderRadius: "10px", height: "35vw" }}>
               <div className="carousel-item active" data-bs-interval="10000">
                 <img src={bg2} className="d-block" alt="Jumbotron 1" style={{ width: "100%", display: "block", margin: "auto", marginRight: "auto" }} />
               </div>
-              <div className="carousel-item active" data-bs-interval="10000">
+              <div className="carousel-item" data-bs-interval="10000">
                 <img src={wf} className="d-block" alt="Jumbotron 2" style={{ width: "100%", display: "block" }} />
               </div>
-              <div className="carousel-item active" data-bs-interval="10000">
+              <div className="carousel-item" data-bs-interval="10000">
                 <img src={bg1} className="d-block" alt="Jumbotron 3" style={{ width: "100%", display: "block" }} />
               </div>
             </div>

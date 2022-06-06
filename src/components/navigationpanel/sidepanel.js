@@ -126,7 +126,7 @@ class SidePanel extends React.Component {
 
                         <li className="search-box" onClick={srcClose}>
                             <i className='bx bx-search icon'></i>
-                            <input type="text" placeholder="Search..." />
+                            <input type="text" className="input-search-box" placeholder="Search..." />
                         </li>
 
                         <ul className="menu-links">
