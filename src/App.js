@@ -29,7 +29,7 @@ function App() {
         <div className="container" id="containers" onLoad={checkDevice}>
           <BrowserRouter>
             <Routes>
-              <Route path="/Home" element={Home()} />
+              <Route path="/" element={Home()} />
             </Routes>
           </BrowserRouter>
         </div>
